@@ -1,0 +1,40 @@
+body{
+background:url("bgam1.jpg");
+background-repeat:no-repeat;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.logo{
+width:175px;
+position:relative;
+margin:20px auto 25px auto;
+}
+.wrapper{
+width:1200px;
+margin:0px auto;
+}
+.pic{
+margin-left:22px;
+float:left;
+height:350px;
+width:398px;
+}
+.pic img{
+border:8px solid white;
+}
+img{
+width:100%;
+height:auto;
+border-radius:25px 0px 0px 25px;
+}
+.bio{
+font-size:16px;
+float:left;
+border-radius:0px 25px 25px 0px;
+border:8px solid white;
+background-color:black;
+color:white;
+width:700px;
+height:347px;
+margin:0px auto 0px auto;
+padding:20px;
+}
